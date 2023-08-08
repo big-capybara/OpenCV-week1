@@ -18,4 +18,5 @@ To successfully complete the workshops, just follow the given steps :
 
 1. Click on the repository link above for whichever workshop you are doing.
 2. On the repository page, click on the Fork button (see image below)
-   ![](image.png)
+   ![](image_2023-08-09_005758737.png)
+3. 
