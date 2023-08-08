@@ -20,4 +20,9 @@ To successfully complete the workshops, just follow the given steps :
 2. On the repository page, click on the _Fork_ button (see image below)
    ![](image_2023-08-09_005758737.png)
 3. On the page that opens, simply click on the _Create Fork_ button (see image below)
-  ![](image.png)
+  ![](image_2023-08-09_010232333.png)
+4. Congratulations! You have successfully forked the repository!
+5. Now, we must clone this forked repository onto your laptop to actually start working on it.
+6. To do so, click on the green _Code_ button.
+7. Next, click on the copy button (shown in image below) to copy the link to this repository.
+![](image.png)
