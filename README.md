@@ -25,4 +25,4 @@ To successfully complete the workshops, just follow the given steps :
 5. Now, we must clone this forked repository onto your laptop to actually start working on it.
 6. To do so, click on the green _Code_ button.
 7. Next, click on the copy button (shown in image below) to copy the link to this repository.
-![](image.png)
+![](image_2023-08-09_012808129.png)
