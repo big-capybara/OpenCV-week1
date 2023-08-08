@@ -16,5 +16,6 @@ This is the official repository for the USRC OpenCV Weekly Workshops!
 
 To successfully complete the workshops, just follow the given steps : 
 
-1. ...
-2. ...
+1. Click on the repository link above for whichever workshop you are doing.
+2. On the repository page, click on the Fork button (see image below)
+   ![](image.png)
