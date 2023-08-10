@@ -27,3 +27,8 @@ To successfully complete the workshops, just follow the given steps :
 6. To do so, click on the green _Code_ button.
 7. Next, click on the copy button (shown in image below) to copy the link to this repository.
 ![](image_2023-08-09_012808129.png)
+8. Now, head over to your terminal on your laptop and type the following command and press enter:
+   
+`git clone <Paste the copied link>`
+
+9. Now, open the folder on your preferred IDE and start coding!
