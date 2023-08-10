@@ -32,3 +32,5 @@ To successfully complete the workshops, just follow the given steps :
 `git clone <Paste the copied link>`
 
 9. Now, open the folder on your preferred IDE and start coding!
+
+Don't know how to use git? See this : https://github.com/usydroboticsclub/intro
